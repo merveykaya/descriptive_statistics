@@ -1,5 +1,9 @@
 # descriptive_statistics
+
+
 Notes and Case Studies
+
+
 You may find A Quick Guide on Descriptive Statistics using numpy ;
 * descriptive_applications.ipynb
 * descriptive_statistics.ipynb
